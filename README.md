@@ -1,6 +1,7 @@
 # Flutter Workshop 🏆
 
 El presente repositorio contiene el código implementado para realizar una prueba de integración a una aplicación de ejemplo.
+
 <br />
 
 ## Proceso 💻

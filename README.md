@@ -4,7 +4,7 @@ El presente repositorio contiene el código implementado para realizar una prueb
 
 <br />
 
-## Proceso 💻
+## Procedimiento 💻
 1. Flutter: Launch Emulator.
 2. Seleccionar el dispositivo.
 3. En el terminal colocar: ```flutter drive --driver=test_driver/integration_driver.dart --target=integration_test/app_test.dart```.

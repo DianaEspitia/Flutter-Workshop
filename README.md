@@ -18,6 +18,6 @@ El presente repositorio contiene el código implementado para realizar una prueb
 La guía que contiene los pasos para completar el taller se encuentra en:
 * https://resocoder.com/2021/01/02/flutter-integration-test-tutorial-firebase-test-lab-codemagic/
 
-Información sobre pruebas de integración en Flutter
+Información sobre pruebas de integración en Flutter:
 * https://docs.flutter.dev/cookbook/testing/integration/introduction
 * https://docs.flutter.dev/testing/integration-tests
